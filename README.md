@@ -6,6 +6,21 @@ My attempt at a [manager readme](https://managerreadme.com/).
 
 This is the fluffy part. You can skip to the next part if you want more concrete info.
 
+Some things I like: 
+ * reading (Reading [this right now](https://en.wikipedia.org/wiki/The_Stormlight_Archive)
+ * [video games](https://www.ea.com/games/apex-legends)
+ * running
+ * my two kids
+
+Some things I've done: 
+* [worked at Oracle](https://www.oracle.com/corporate/acquisitions/bea/) as a consultant and [sales engineer](https://www.careerexplorer.com/careers/sales-engineer/)
+* wrote the first version of [VirtualPlant monitoring and predicive software](https://www.gpstrategies.com/solution/technical-engineering/etapro/etapro-virtualplant-thermal-performance/)
+* [ran a marthon](http://www.umsteadmarathon.com/index.php?page=results-2019)
+
+I [wrote some articles about how to evaluate companies when you're interviewing for a job](https://medium.com/@hross). Check them out if you want to know more about how I think.
+
+I also [wrote a blog here that is very sparsely populated](http://blog.hross.net/). It's old, but it will at least give you an idea of the wide variety of technologies and random things I've done.
+
 ## What are my principles?
 
 * **Ownership is important.** I have found that the single most important thing you can do in a software shop is to <ins>get things done</ins>. There are two parts to getting things done:
