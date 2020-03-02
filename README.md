@@ -7,7 +7,7 @@ My attempt at a [manager readme](https://managerreadme.com/).
 This is the fluffy part. You can skip to the next part if you want more concrete info.
 
 Some things I like: 
- * reading (Reading [this right now](https://en.wikipedia.org/wiki/The_Stormlight_Archive)
+ * reading (reading [this right now](https://en.wikipedia.org/wiki/The_Stormlight_Archive))
  * [video games](https://www.ea.com/games/apex-legends)
  * running
  * my two kids
