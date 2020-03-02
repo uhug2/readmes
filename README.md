@@ -47,6 +47,7 @@ I also [wrote a blog here that is very sparsely populated](http://blog.hross.net
 
 ## What do I expect from my directs?
 
-* You try to be kind and respectful to others and learn from your mistakes.
-* You are communicating what's going on with what you're working on.
+* Try to be kind and respectful to others and learn from your mistakes.
+* Communicate what's going on with what you're working on.
 * Code you ship can be trusted in production.
+* You get things done, even if you are blocked or frustrated.
