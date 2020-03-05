@@ -14,8 +14,8 @@ Some things I like:
 
 Some things I've done: 
 * [worked at Oracle](https://www.oracle.com/corporate/acquisitions/bea/) as a consultant and [sales engineer](https://www.careerexplorer.com/careers/sales-engineer/)
-* wrote the first version of [VirtualPlant monitoring and predicive software](https://www.gpstrategies.com/solution/technical-engineering/etapro/etapro-virtualplant-thermal-performance/)
-* [ran a marthon](http://www.umsteadmarathon.com/index.php?page=results-2019)
+* wrote the first version of [VirtualPlant monitoring and predictive software](https://www.gpstrategies.com/solution/technical-engineering/etapro/etapro-virtualplant-thermal-performance/)
+* [ran a marathon](http://www.umsteadmarathon.com/index.php?page=results-2019)
 
 I [wrote some articles about how to evaluate companies when you're interviewing for a job](https://medium.com/@hross). Check them out if you want to know more about how I think.
 
@@ -43,7 +43,7 @@ I also [wrote a blog here that is very sparsely populated](http://blog.hross.net
 * Are we shipping a great product?
 * Am I unblocking my direct reports?
 * What is falling through the cracks?
-* I should be humble enough to assume I can always be better. Not hard becuase I have [imposter syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome). All the time. In everything I do. 
+* I should be humble enough to assume I can always be better. Not hard because I have [imposter syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome). All the time. In everything I do. 
 
 ## What do I expect from my directs?
 
